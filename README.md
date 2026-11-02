@@ -29,17 +29,49 @@ offline but never grade; Day 31 was the event's 24-hour finale.
 - "Independent" for an old Time Trial or Mastery often rests on a later scripted rerun (see "Evidence
   quality" below). Each page says which attempt backs which label.
 
-## Totals so far
+## Daily Summary
 
-| | Challenges | Modes | Independent | Journal-recorded | Local mark only | Team |
-|---|---|---|---|---|---|---|
-| Days 1-10 | 52 | 152 | 113 | 27 | 12 | 0 |
-| Days 11-31 | 137 | 409 | 316 | 64 | 1 | 28 |
-| **Total, Days 1-31** | **189** | **561** | **429** | **91** | **13** | **28** |
+| Day | Challenges | Modes | Independent | Journal-recorded | Local mark only | Team | Absent |
+|---|---|---|---|---|---|---|---|
+| [Day 1](day01/README.md) | 7 | 17 | 9 | 2 | 6 | 0 | 4 |
+| [Day 2](day02/README.md) | 5 | 15 | 9 | 5 | 1 | 0 | 0 |
+| [Day 3](day03/README.md) | 5 | 15 | 11 | 2 | 2 | 0 | 0 |
+| [Day 4](day04/README.md) | 5 | 15 | 11 | 4 | 0 | 0 | 0 |
+| [Day 5](day05/README.md) | 5 | 15 | 11 | 1 | 3 | 0 | 0 |
+| [Day 6](day06/README.md) | 5 | 15 | 12 | 3 | 0 | 0 | 0 |
+| [Day 7](day07/README.md) | 5 | 15 | 11 | 4 | 0 | 0 | 0 |
+| [Day 8](day08/README.md) | 5 | 15 | 15 | 0 | 0 | 0 | 0 |
+| [Day 9](day09/README.md) | 5 | 15 | 14 | 1 | 0 | 0 | 0 |
+| [Day 10](day10/README.md) | 5 | 15 | 10 | 5 | 0 | 0 | 0 |
+| [Day 11](day11/README.md) | 5 | 15 | 8 | 7 | 0 | 0 | 0 |
+| [Day 12](day12/README.md) | 5 | 15 | 3 | 12 | 0 | 0 | 0 |
+| [Day 13](day13/README.md) | 5 | 15 | 13 | 2 | 0 | 0 | 0 |
+| [Day 14](day14/README.md) | 5 | 15 | 12 | 3 | 0 | 0 | 0 |
+| [Day 15](day15/README.md) | 5 | 15 | 13 | 2 | 0 | 0 | 0 |
+| [Day 16](day16/README.md) | 5 | 15 | 15 | 0 | 0 | 0 | 0 |
+| [Day 17](day17/README.md) | 5 | 15 | 10 | 5 | 0 | 0 | 0 |
+| [Day 18](day18/README.md) | 5 | 15 | 7 | 8 | 0 | 0 | 0 |
+| [Day 19](day19/README.md) | 8 | 24 | 16 | 8 | 0 | 0 | 0 |
+| [Day 20](day20/README.md) | 7 | 21 | 14 | 7 | 0 | 0 | 0 |
+| [Day 21](day21/README.md) | 8 | 24 | 22 | 0 | 0 | 2 | 0 |
+| [Day 22](day22/README.md) | 7 | 21 | 20 | 1 | 0 | 0 | 0 |
+| [Day 23](day23/README.md) | 8 | 24 | 16 | 7 | 1 | 0 | 0 |
+| [Day 24](day24/README.md) | 7 | 21 | 21 | 0 | 0 | 0 | 0 |
+| [Day 25](day25/README.md) | 8 | 24 | 22 | 2 | 0 | 0 | 0 |
+| [Day 26](day26/README.md) | 7 | 21 | 20 | 0 | 0 | 1 | 0 |
+| [Day 27](day27/README.md) | 8 | 24 | 19 | 0 | 0 | 5 | 0 |
+| [Day 28](day28/README.md) | 7 | 21 | 14 | 0 | 0 | 7 | 0 |
+| [Day 29](day29/README.md) | 7 | 21 | 19 | 0 | 0 | 2 | 0 |
+| [Day 30](day30/README.md) | 8 | 22 | 17 | 0 | 0 | 5 | 2 |
+| [Day 31](day31/README.md) | 7 | 21 | 15 | 0 | 0 | 6 | 0 |
+| **Total, Days 1-31** | **189** | **561** | **429** | **91** | **13** | **28** | **6** |
 
-Day 1 has 17 modes rather than 21 because the two Welcome challenges are Single Solve only. Day 30's
-SHA1-Hulud has no Time Trial or Mastery at all, so that day's mode count (22) is an attempted total, not
-every challenge times three modes. Counts are taken from each day overview's own "at a glance" line.
+"Absent" is a mode that structurally doesn't exist for that challenge, not a failed attempt: Day 1's
+four are the two Welcome challenges (Single Solve only, no Time Trial or Mastery); Day 30's two are
+SHA1-Hulud, which has no Time Trial or Mastery at all. Modes already exclude Absent ones, so the five
+provenance columns (Independent through Team) sum to Modes on every row. Counts for Days 1-28 are
+taken from each day overview's own "at a glance" line; Days 29-31 (which don't carry that line) are
+tallied directly from each day's challenge table.
 
 ## Progression, Days 1-10
 
